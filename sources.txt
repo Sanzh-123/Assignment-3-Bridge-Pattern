@@ -2,6 +2,7 @@ src/Main.java
 src/domain/Channel.java
 src/domain/EmailChannel.java
 src/domain/SmsChannel.java
+src/domain/PushChannel.java
 src/domain/Notification.java
 src/domain/Reminder.java
 src/domain/UrgentAlert.java
